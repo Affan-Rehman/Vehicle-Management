@@ -1,5 +1,11 @@
 # My Personal Masterpiece: An In-Depth, Comprehensive Vehicle Inventory & Company Management App Showcase
-
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="/Users/affanrehman/Desktop/carmanagement.mp4" type="video/mp4">
+  </video>
+</figure>
+<!-- blank line -->
 🌟 Proudly presenting my personal masterpiece, an all-encompassing and feature-loaded Vehicle Inventory & Company Management App that epitomizes efficiency and user-friendliness! 🌟
 
 This Android application has been single-handedly designed and developed by me to provide an unparalleled and intuitive experience in managing a diverse range of vehicle and company information. My app boasts an easy-to-navigate user interface, efficient data storage, and visually captivating design elements, making it an essential tool for handling complex vehicle details and company information.
